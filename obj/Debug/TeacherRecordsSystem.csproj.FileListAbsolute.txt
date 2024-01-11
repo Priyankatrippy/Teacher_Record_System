@@ -1,0 +1,7 @@
+D:\mphasis\TeacherRecordsSystem\TeacherRecordsSystem\bin\Debug\TeacherRecordsSystem.exe.config
+D:\mphasis\TeacherRecordsSystem\TeacherRecordsSystem\bin\Debug\TeacherRecordsSystem.exe
+D:\mphasis\TeacherRecordsSystem\TeacherRecordsSystem\bin\Debug\TeacherRecordsSystem.pdb
+D:\mphasis\TeacherRecordsSystem\TeacherRecordsSystem\obj\Debug\TeacherRecordsSystem.csproj.AssemblyReference.cache
+D:\mphasis\TeacherRecordsSystem\TeacherRecordsSystem\obj\Debug\TeacherRecordsSystem.csproj.CoreCompileInputs.cache
+D:\mphasis\TeacherRecordsSystem\TeacherRecordsSystem\obj\Debug\TeacherRecordsSystem.exe
+D:\mphasis\TeacherRecordsSystem\TeacherRecordsSystem\obj\Debug\TeacherRecordsSystem.pdb
